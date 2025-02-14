@@ -1,1 +1,1 @@
-# Reinforcement-Learning
+# Notes on machine learning
